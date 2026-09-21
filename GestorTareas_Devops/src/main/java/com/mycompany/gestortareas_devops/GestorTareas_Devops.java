@@ -18,7 +18,6 @@ public class GestorTareas_Devops {
 
     public static void main(String[] args) {
         System.out.println("Bienvenido al gestor de Tareas");;
-        System.out.println("");
 
         int opcion;
         do {
